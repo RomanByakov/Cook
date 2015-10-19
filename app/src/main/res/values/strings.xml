@@ -8,4 +8,10 @@
     <string name="title_activity_detailed_recept">DetailedRecept</string>
     <string name="title_activity_recept">Recept</string>
     <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_tab">TabActivity</string>
+
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+
 </resources>

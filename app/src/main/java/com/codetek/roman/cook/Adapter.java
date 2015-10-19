@@ -70,7 +70,7 @@ public class Adapter extends RecyclerView.Adapter<Adapter.TrackViewHolder> {
                 else
                 {
                     // detail
-                    Intent intent = new Intent(context, Recept.class);
+                    Intent intent = new Intent(context, TabActivity.class);
                     intent.putExtra("bool", true);
                     intent.putExtra("page",((TextView) view.findViewById(R.id.textView)).getText());
                     context.startActivity(intent);
